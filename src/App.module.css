@@ -1,0 +1,15 @@
+.App {
+   text-align: center;
+   background-color: linear-gradient(
+      rgba (red),
+      rgba (purple));
+   background-image: linear-gradient(      
+      rgba(255, 255, 0, 0.5),
+      rgba(0, 0, 255, 0.5)
+    ), url("https://i.blogs.es/7fef93/rick-morty/1366_2000.jpeg");
+    height: 100%;
+         }
+.nav{
+   background-color: rgb(223, 100, 100);
+   
+}
