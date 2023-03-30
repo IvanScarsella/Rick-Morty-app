@@ -1,4 +1,0 @@
-export const ADD_FAVORITES = "ADD-FAVORITES";
-export const REMOVE_FAVORITES = "REMOVE_FAVORITES";
-export const FILTER_CARDS = "FILTER_CARDS";
-export const ORDER_CARDS = "ORDER_CARDS";
