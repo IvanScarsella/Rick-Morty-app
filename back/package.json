@@ -2,21 +2,24 @@
   "name": "back",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon .src/server.js"
+    "start": "node ./src/server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.3.4",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.21"
+    "nodemon": "^2.0.21",
+    "pg": "^8.10.0",
+    "sequelize": "^6.30.0"
   }
 }
